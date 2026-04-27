@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 #include "include/Mahasiswa.hpp"
 #include "include/MataKuliah.hpp"
 #include "include/KRS.hpp"
